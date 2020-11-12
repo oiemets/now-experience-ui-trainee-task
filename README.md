@@ -1,8 +1,8 @@
 # @now-experience-ui/trainee-task
-================================
-Test task for trainee front end Developer position.
-=================================
-to whom it may concern
+
+#Test task for trainee front end Developer position.
+
+#to whom it may concern
 
 ## In order to run these tasks: 
 1. install Now Experience CLI globally: `npm i -g @servicenow/cli@orlando`
