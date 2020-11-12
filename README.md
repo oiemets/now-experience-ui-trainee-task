@@ -1,7 +1,7 @@
 # @now-experience-ui/trainee-task
-===============================================
+================================
 Test task for trainee front end Developer position.
-===============================================
+=================================
 to whom it may concern
 
 ## In order to run these tasks: 
